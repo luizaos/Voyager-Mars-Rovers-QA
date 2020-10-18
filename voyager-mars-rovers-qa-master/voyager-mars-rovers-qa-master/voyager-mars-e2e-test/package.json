@@ -1,0 +1,23 @@
+{
+  "name": "voyager-mars-e2e-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/voyager-portal/voyager-mars-rovers-qa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/voyager-portal/voyager-mars-rovers-qa/issues"
+  },
+  "homepage": "https://gitlab.com/voyager-portal/voyager-mars-rovers-qa#readme"
+}
