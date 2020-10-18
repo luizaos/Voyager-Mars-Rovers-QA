@@ -1,6 +1,3 @@
-# Voyager-Mars-Rovers-QA-Challenge
-
-
 ### 1 - Start docker
 
 `run docker-compose up` in ./voyager-mars-rover/ folder to startup the application
