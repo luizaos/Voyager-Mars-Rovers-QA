@@ -1,13 +1,13 @@
-## Voyager-Mars-Rovers-QA-Challenge
+# Voyager-Mars-Rovers-QA-Challenge
 
 
-# 1 - Start docker
+### 1 - Start docker
 
 `run docker-compose up` in ./voyager-mars-rover/ folder to startup the application
 
-# 2 - Application will be available at http://localhost:8080
+### 2 - Application will be available at http://localhost:8080
 
-# 3 - The Cypress test project is isolated on ./voyager-mars-e2e-test/
+### 3 - The Cypress test project is isolated on ./voyager-mars-e2e-test/
 
 Run `npm install` on ./voyager-mars-e2e-test/ folder
 
